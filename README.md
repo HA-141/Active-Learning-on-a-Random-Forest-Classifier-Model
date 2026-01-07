@@ -16,4 +16,17 @@ RDKit library version: 2024.09.5
 
 Sections of the code for both  include:
 
-Basic EDA
+Basic EDA and data cleaning
+Advanced EDA
+- Label distribution
+- Feature distribution
+- PCA (2 components)
+Active Learning Random forest classifier training
+- Training samples start with first five samples, then five randomly selected samples stratified by class label proportion
+- Random states for random sample selection: 1, 10, 42, 50, 100
+- Least confidence uncertainty sampling (20 least confident samples)
+- Acquire MCC and F1 scores and the model's feature importance.
+- Tranining loop stops when training size is more than 80% of the total sample size
+Individual statistical analysis
+Feature importance extraction
+Comparative analysis for both datasets
