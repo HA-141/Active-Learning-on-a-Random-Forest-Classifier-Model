@@ -22,7 +22,7 @@ Advanced EDA
   ![Label dist for Blood brain barrier permeability](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/BBB_Label_dist.png)
   ![Label dist for Breast cancer](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_Label_dist.png)
 - Feature distribution
-  ![Feature dist for Blood brain barrier permeability](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/BBB_Feature_dist.png )
+  ![Feature dist for Blood brain barrier permeability](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/BBB_Feature_dist.png)
   ![Feature dist for Breast Cancer](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_Feature_dist.png)
 - PCA (2 components)
   
