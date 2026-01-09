@@ -25,6 +25,7 @@ Advanced EDA
   ![Feature dist for Blood brain barrier permeability](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/BBB_Feature_dist.png )
   ![Feature dist for Breast Cancer](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_Feature_dist.png)
 - PCA (2 components)
+  
   ![PCA for Blood brain barrier permeability](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/BBB_PCA.png)
   ![PCA for Breast cancer](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_PCA.png)
 Active Learning Random forest classifier training
