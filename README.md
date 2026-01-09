@@ -19,14 +19,14 @@ Sections of the code for both datasets  include:
 Basic EDA and data cleaning
 Advanced EDA
 - Label distribution
-  [Label dist for Blood brain barrier permeability](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/BBB_Label_dist.png)
-  [Label dist for Breast cancer](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_Label_dist.png)
+  ![Label dist for Blood brain barrier permeability](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/BBB_Label_dist.png)
+  ![Label dist for Breast cancer](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_Label_dist.png)
 - Feature distribution
-  [Feature dist for Blood brain barrier permeability](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/BBB_Feature_dist.png )
-  [Feature dist for Breast Cancer](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_Feature_dist.png)
+  ![Feature dist for Blood brain barrier permeability](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/BBB_Feature_dist.png )
+  ![Feature dist for Breast Cancer](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_Feature_dist.png)
 - PCA (2 components)
-  [PCA for Blood brain barrier permeability](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/BBB_PCA.png)
-  [PCA for Breast cancer](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_PCA.png)
+  ![PCA for Blood brain barrier permeability](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/BBB_PCA.png)
+  ![PCA for Breast cancer](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_PCA.png)
 Active Learning Random forest classifier training
 - Training samples start with first five samples, then five randomly selected samples stratified by class label proportion
 - Random states for random sample selection: 1, 10, 42, 50, 100
