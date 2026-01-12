@@ -37,4 +37,14 @@ Active Learning Random forest classifier training
 - Tranining loop stops when training size is more than 80% of the total sample size
 Individual statistical analysis
 Feature importance extraction
-Comparative analysis for both datasets
+- For Blood Brain Barrier Permeability:
+  ![Blood Brain Barrier MCC scores](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Blood_Brain_Barrier_MCC.png)
+  ![Blood Brain Barrier F1 scores](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Blood_Brain_Barrier_F1.png)
+  ![Blood Brain Barrier top feature importances](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Blood_Brain_Barrier_Top_Features.png)
+- For Breast Cancer:
+  ![Breast Cancer MCC scores](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_MCC.png)
+  ![Breast Cancer F1 scores](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_F1.png)
+  ![Breast Cancer top feature importances](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/Breast_Cancer_Top_Features.png)
+Comparative analysis for both datasets:
+  ![MCC score comparison](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/MCC_Comparison.png)
+  ![F1 score comparison](https://github.com/HA-141/QMUL-MSC-assignment-AL-on-a-RF-classifier-model/blob/main/NB_Images/F1_Comparison.png)
